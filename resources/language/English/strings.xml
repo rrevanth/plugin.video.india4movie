@@ -16,4 +16,7 @@
 
   <!-- Options -->
   <string id="30100">Url Resolver Settings</string>
+  <string id="32001">Movie Rulz Settings</string> 
+  <string id="32011">Movie Rulz URL</string> 
+
 </strings>
